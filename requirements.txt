@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+prophet
+polygon-api-client
+json
+urllib3
+requests
+statsmodels
+pmdarima
+scikit-learn
